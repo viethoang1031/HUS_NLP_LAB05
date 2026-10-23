@@ -1,6 +1,6 @@
 # LAB 05 - Sequence Models: RNN, LSTM and GRU
 
-Bài làm mẫu (đáp án tham chiếu) cho LAB 05.
+
 
 ## Nội dung
 
